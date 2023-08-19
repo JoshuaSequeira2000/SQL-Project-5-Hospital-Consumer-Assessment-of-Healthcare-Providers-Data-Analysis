@@ -83,7 +83,7 @@ The above shows the percentage of response rate for the survey from each state.
 
 ### 6d) Avg top box percentage for all states with all measures from 2015 to 2023.
 ![image](https://github.com/JoshuaSequeira2000/SQL-Project5-Exploratory-Data-Analysis/assets/92262753/2271ac6a-550d-42f5-8b01-7833c901909a)\
-Where clause added to filter the result based on State and Measure_ID
+Where clause added to filter the result based on State and Measure_ID.
 
 
 
