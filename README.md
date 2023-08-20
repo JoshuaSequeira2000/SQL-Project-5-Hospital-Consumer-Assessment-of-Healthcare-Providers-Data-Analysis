@@ -2,7 +2,7 @@
 
 ## Complete code attached - HCAHPS.sql
 
-## Data Insights
+## Data Insights Using SQL.
 
 ### 1) Average hospital response rate for the survey.
 ![image](https://github.com/JoshuaSequeira2000/SQL-Project5-Exploratory-Data-Analysis/assets/92262753/8ecfa262-853d-42bd-84c4-3fa5ac2f1c72)
